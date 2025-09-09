@@ -409,7 +409,7 @@ export default function OverviewTab({
         <div className="card p-6 mb-8">
           <h3 className="text-lg font-semibold text-gray-900 mb-4">
             <FontAwesomeIcon icon={faTrophy} className="mr-2" />
-            Top 5 สินค้าขายดี (รวม qty)
+            Top 5 สินค้าขายดี
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="overflow-x-auto">
